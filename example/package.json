@@ -22,6 +22,6 @@
   },
   "keywords": [],
   "devDependencies": {
-    "nodemon": "^2.0.19"
+    "nodemon": "^3.1.11"
   }
 }
